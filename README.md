@@ -8,5 +8,7 @@
 
 ## Related Patterns
 
-- [Bounded Clock Pattern](./patterns/bounded_clock.md)
-- [Consistent Core Pattern](./patterns/consistent_core.md)
+- [Bounded Clock ](./patterns/bounded_clock.md)
+- [Consistent Core ](./patterns/consistent_core.md)
+- [Follower Reads](./patterns/follower_reads.md)
+- [Fixed Partitions](./patterns/fixed_partitions.md)
