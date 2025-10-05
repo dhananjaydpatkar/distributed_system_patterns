@@ -10,8 +10,8 @@ To distribute data across cluster nodes, a uniform mapping and direct node looku
 - When nodes change (added/removed), only partitions are reassigned, resulting in limited and fast data movement; the partition count should allow for future growth.
 
 ## Key Aspects
-**Choice of a hash function**  Use a platform-independent hashing algorithm like MD5 or Murmur to ensure consistent hash values across different runtimes.
-**Mapping Partitions to Nodes** A dedicated Consistent Core coordinates the cluster by tracking nodes and managing the mapping of partitions to nodes, making this information accessible to clients.
+- **Choice of a hash function**  Use a platform-independent hashing algorithm like MD5 or Murmur to ensure consistent hash values across different runtimes.
+- **Mapping Partitions to Nodes** A dedicated Consistent Core coordinates the cluster by tracking nodes and managing the mapping of partitions to nodes, making this information accessible to clients.
 
 
 
