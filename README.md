@@ -4,7 +4,7 @@
 
 - *Patterns of Distributed Systems* by Unmesh Joshi
 - Internet resources
-- AI assistants
+- AI assistant
 
 ## Related Patterns
 
