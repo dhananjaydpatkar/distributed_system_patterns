@@ -14,3 +14,4 @@
 - [Fixed Partitions](./patterns/fixed_partitions.md)
 - [Generation Clock/Epoch](./patterns/generation_clock.md)
 - [Gossip Dessimination](./patterns/gossip_dissemination.md)
+- [Heartbeat](./patterns/heartbeat.md)
